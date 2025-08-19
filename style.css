@@ -1,0 +1,31 @@
+body {
+    box-sizing: border-box;
+}
+
+.fx {
+    display: flex;
+    width: 310px;
+    height: 310px;
+    flex-wrap: wrap;
+    /* align-items: center; */
+    justify-content: space-between;
+}
+
+.childs {
+    background-color: #008b8b;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: 80PX;
+    cursor: pointer;
+}
+
+.reload {
+    background-color: #008b8b;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    font-size: 40px;
+    cursor: pointer;
+    display: none;
+}

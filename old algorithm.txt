@@ -1,0 +1,109 @@
+// var xo = ""
+
+// document.getElementById("box1").addEventListener("click", 
+//     function one() {
+//         if (xo == "x") {
+//             xo = "o"
+//             document.getElementById("box1").innerHTML = xo
+//         } else {
+//             xo = "x"
+//             document.getElementById("box1").innerHTML = xo
+//         }
+//         document.getElementById("box1").removeEventListener("click", one)
+//     })
+
+// document.getElementById("box2").addEventListener("click", 
+//     function two() {
+//         if (xo == "x") {
+//             xo = "o"
+//             document.getElementById("box2").innerHTML = xo
+//         } else {
+//             xo = "x"
+//             document.getElementById("box2").innerHTML = xo
+//         }
+//         document.getElementById("box2").removeEventListener("click", two)
+//     })
+
+// document.getElementById("box3").addEventListener("click", 
+//     function three() {
+//         if (xo == "x") {
+//             xo = "o"
+//             document.getElementById("box3").innerHTML = xo
+//         } else {
+//             xo = "x"
+//             document.getElementById("box3").innerHTML = xo
+//         }
+//         document.getElementById("box3").removeEventListener("click", three)
+//     })
+
+// document.getElementById("box4").addEventListener("click", 
+//     function four() {
+//         if (xo == "x") {
+//             xo = "o"
+//             document.getElementById("box4").innerHTML = xo
+//         } else {
+//             xo = "x"
+//             document.getElementById("box4").innerHTML = xo
+//         }
+//         document.getElementById("box4").removeEventListener("click", four)
+//     })
+
+// document.getElementById("box5").addEventListener("click", 
+//     function five() {
+//         if (xo == "x") {
+//             xo = "o"
+//             document.getElementById("box5").innerHTML = xo
+//         } else {
+//             xo = "x"
+//             document.getElementById("box5").innerHTML = xo
+//         }
+//         document.getElementById("box5").removeEventListener("click", five)
+//     })
+
+// document.getElementById("box6").addEventListener("click", 
+//     function six() {
+//         if (xo == "x") {
+//             xo = "o"
+//             document.getElementById("box6").innerHTML = xo
+//         } else {
+//             xo = "x"
+//             document.getElementById("box6").innerHTML = xo
+//         }
+//         document.getElementById("box6").removeEventListener("click", six)
+//     })
+
+// document.getElementById("box7").addEventListener("click", 
+//     function seven() {
+//         if (xo == "x") {
+//             xo = "o"
+//             document.getElementById("box7").innerHTML = xo
+//         } else {
+//             xo = "x"
+//             document.getElementById("box7").innerHTML = xo
+//         }
+//         document.getElementById("box7").removeEventListener("click", seven)
+//     })
+
+// document.getElementById("box8").addEventListener("click", 
+//     function eight() {
+//         if (xo == "x") {
+//             xo = "o"
+//             document.getElementById("box8").innerHTML = xo
+//         } else {
+//             xo = "x"
+//             document.getElementById("box8").innerHTML = xo
+//         }
+//         document.getElementById("box8").removeEventListener("click", eight)
+//     })
+
+// document.getElementById("box9").addEventListener("click", 
+//     function nine() {
+        // if (xo == "x") {
+        //     xo = "o"
+        //     document.getElementById("box9").innerHTML = xo
+        // } else {
+        //     xo = "x"
+        //     document.getElementById("box9").innerHTML = xo
+        // }
+//         document.getElementById("box9").removeEventListener("click", nine)
+//     })
